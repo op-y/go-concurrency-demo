@@ -6,7 +6,7 @@ import (
     "fmt"
     "time"
 
-    "golang.org/x/sync/errgroup"
+    "golang.org/x/sync/errgroup""
 )
 
 func main() {
