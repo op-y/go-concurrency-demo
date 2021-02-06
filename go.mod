@@ -1,4 +1,4 @@
-module demo/concurrency
+module github.com/op-y/go-concurrency-demo
 
 go 1.15
 
