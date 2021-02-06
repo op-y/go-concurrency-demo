@@ -1,9 +1,9 @@
 package main
 
 import (
-    "atomic"
     "fmt"
     "sync"
+    "sync/atomic"
 
     "github.com/petermattis/goid"
 )
